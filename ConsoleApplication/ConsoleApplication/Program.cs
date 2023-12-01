@@ -1,10 +1,21 @@
 ﻿namespace ConsoleApplication;
 
-class Program
+public class Program
 {
-    static void Main(string[] args)
+    public static void Main(string[] args)
     {
-        Console.WriteLine("Hello, World!");
+        Calculator calObj = new Calculator();
+        int result = calObj.Calculatesum(10, 20);
+        Console.WriteLine(result);
+        Console.ReadKey();
+       
+    }
+}
+public class Calculator
+{
+    public int Calculatesum(int no1,int no2)
+    {
+        return no1 + no2;
     }
 }
 

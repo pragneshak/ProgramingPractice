@@ -1,0 +1,15 @@
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.csproj.AssemblyReference.cache
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.GeneratedMSBuildEditorConfig.editorconfig
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.AssemblyInfoInputs.cache
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.AssemblyInfo.cs
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.csproj.CoreCompileInputs.cache
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.deps.json
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.runtimeconfig.json
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.dll
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/bin/Debug/net6.0/ConsoleApplication.pdb
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.dll
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/refint/ConsoleApplication.dll
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.pdb
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ConsoleApplication.genruntimeconfig.cache
+/Users/pragneshakulkarni/FirstProject/ConsoleApplication/ConsoleApplication/obj/Debug/net6.0/ref/ConsoleApplication.dll

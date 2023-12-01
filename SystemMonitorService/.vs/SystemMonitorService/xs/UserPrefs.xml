@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{689B2930-D0D5-41F7-B1DE-FB0765E6B968}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="SystemMonitorService/Program.cs">
+    <Files>
+      <File FileName="SystemMonitorService/Program.cs" Line="29" Column="1" />
+      <File FileName="SystemMonitorService/EndpointInfo.cs" Line="13" Column="1" />
+      <File FileName="SystemMonitorService/SystemMonitorService.cs" Line="17" Column="10" />
+      <File FileName="SystemMonitorService/TestConfiguration.cs" Line="10" Column="1" />
+      <File FileName="SystemMonitorService/SystemMonitorService.csproj" Line="24" Column="17" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="SystemMonitorService" expanded="True">
+            <Node name="SystemMonitorService" expanded="True" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.SystemMonitorService PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

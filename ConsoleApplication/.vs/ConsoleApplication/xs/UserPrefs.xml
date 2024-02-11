@@ -1,24 +1,29 @@
 ﻿<Properties StartupConfiguration="{43E7F181-DBC5-41A3-9CEC-DD275592D12E}|Default">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication/ExplicitConstructor.cs">
+  <MonoDevelop.Ide.ItemProperties.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConsoleApplication/ConstructorDemo.cs">
     <Files>
-      <File FileName="ConsoleApplication/Program.cs" Line="5" Column="12" />
-      <File FileName="ConsoleApplication/ConstructorDemo.cs" Line="6" Column="9" />
+      <File FileName="ConsoleApplication/Program.cs" Line="16" Column="27" />
+      <File FileName="ConsoleApplication/ConstructorDemo.cs" Line="18" Column="6" />
       <File FileName="ConsoleApplication/ConsoleApplication.csproj" Line="12" Column="1" />
       <File FileName="ConsoleApplication/ExplicitConstructor.cs" Line="20" Column="1" />
+      <File FileName="ConsoleApplication/ParentClass.cs" Line="27" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConsoleApplication" expanded="True" />
+          <Node name="ConsoleApplication" expanded="True">
+            <Node name="ConsoleApplication">
+              <Node name="ConstructorDemo.cs" selected="True" />
+            </Node>
+          </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.ItemProperties.ConsoleApplication PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
 </Properties>

@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "2Q/utdGO2qmhJrH+C9aEiHRsHB0pDLSzGdqpWZrsjbHwkjgswXfa4ROm1hmqh9dcXrObpGvSIlpXP4AkaE2R5A==",
+  "dgSpecHash": "yOYaoWquhQ70WgEu4/8nEb6RVCS+ydFsR0kGPHx8S2A011lzLDNx4UlLahBir+H4y0/4iJCYknYzZ/bLqpj1qQ==",
   "success": true,
   "projectFilePath": "/Users/pragneshakulkarni/FirstProject/JsonPlaceholderExample/JsonPlaceholderExample/JsonPlaceholderExample.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "/Users/pragneshakulkarni/.nuget/packages/system.net.http.json/8.0.0/system.net.http.json.8.0.0.nupkg.sha512",
+    "/Users/pragneshakulkarni/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "/Users/pragneshakulkarni/.nuget/packages/system.text.encodings.web/8.0.0/system.text.encodings.web.8.0.0.nupkg.sha512",
+    "/Users/pragneshakulkarni/.nuget/packages/system.text.json/8.0.0/system.text.json.8.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

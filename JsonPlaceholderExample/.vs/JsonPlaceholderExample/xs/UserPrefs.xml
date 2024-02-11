@@ -1,4 +1,21 @@
 ﻿<Properties StartupConfiguration="{97F7873E-BB44-4369-9553-31D13A93B6E1}|Default">
-  <MonoDevelop.Ide.ItemProperties.JsonPlaceholderExample FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.JsonPlaceholderExample PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="JsonPlaceholderExample/Program.cs">
+    <Files>
+      <File FileName="JsonPlaceholderExample/Program.cs" Line="34" Column="38" />
+      <File FileName="JsonPlaceholderExample/UrlFetcherService.cs" Line="27" Column="1" />
+      <File FileName="JsonPlaceholderExample/ApiService.cs" Line="21" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__" />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
 </Properties>
